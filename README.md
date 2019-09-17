@@ -1,7 +1,6 @@
 # html2pdf.js
 
 html2pdf.js converts any webpage or element into a printable PDF entirely client-side using [html2canvas](https://github.com/niklasvh/html2canvas) and [jsPDF](https://github.com/MrRio/jsPDF).
-A updated doc on Sep.17.
 
 ## Table of contents
 
